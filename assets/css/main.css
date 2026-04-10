@@ -107,6 +107,23 @@ a:hover {
   background-color: #bb9e7d;
 }
 
+
+.about {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: linear-gradient(to right, #a94442, #d35400); /* warm gradient */
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  position: relative;
+  margin-bottom: 20px;
+  text-align: left;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.15); /* subtle shadow */
+}
+
+
 /* Education Section */
 .education {
   padding: 40px;
